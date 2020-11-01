@@ -1,1 +1,1 @@
-# cs50
+Problemas del curso CS50 de Harvard. 
